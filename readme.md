@@ -16,7 +16,10 @@ The aim is to write an accessible, interactive, and reasonably accurate simulati
  * Resizeable window
 
 ## To be Implemented
+ * Variable time-steps
  * Gravitational/Electrostatic Forces (Particle Mesh, P2M?)
+ * Magnetic fields from moving charges???
+ * Friction???
  * Control panel to tweak velocity, mass, charge, body size, etc.
  * A body/gravitational force which follows cursor? Triggered by click?
  * Coloured balls?
